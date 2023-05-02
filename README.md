@@ -5,3 +5,4 @@
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------------------- | --------------------------- | ------------------------- | --- | --- | --- | --- | --- |--- | --- | --- |--- | --- | --- |
 | <img width=200/>                                      |  | | |  |  |  |  |  | | | | |  | | |
 | Neural-Symbolic Machine Learning for Retrosynthesis and Reaction Prediction| Molecular Fingerprint | 2017 | ChemistryA European Journal | [pytorch](https://github.com/linminhtoo/neuralsym)                    |
+<hr style="background: transparent; border: 0.5px dashed;"/>
